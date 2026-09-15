@@ -1,0 +1,5 @@
+批次 move in，mes下发resorting文件，除测试站点和一个特殊站点外都是机台UI根据resorting文件去FTP下载recipe，其他站点是EAP去获取文件
+
+LS站点track in前，需要打印临时卷标签，如果没有track out的时候会卡控不让出站
+
+BK和FVI支持多批次move in
