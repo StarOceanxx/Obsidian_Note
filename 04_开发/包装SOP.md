@@ -13,5 +13,6 @@ TaskDecorator和Applicationcontext
 
 RabbitMQ Broker Relay
 
+BLOB URL 处理文件请求
 
 LibreOffice 
